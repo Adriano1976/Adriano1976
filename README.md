@@ -16,8 +16,7 @@
   
   ##
   
- <div> 
-  <a href="https://www.youtube.com/channel/UCyYx-tawZArmP_v8lKnP2cw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <div>   
   <a href="https://www.instagram.com/adrianoempreendedor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:adrianosantos.git@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriradiologista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
@@ -26,6 +25,8 @@
   <a href="https://t.me/adrianosantos_git" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="http://api.whatsapp.com/send?phone=79998960414" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>    
  
-  ![Snake animation](https://github.com/Adriano1976/Adriano1976/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Adriano1976/Adriano1976/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/main/.github/workflows/cobrinha.yml)
  
 </div>
