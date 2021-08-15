@@ -1,4 +1,9 @@
 ## Olá Pessoal! Eu sou o Adriano Santos
+
+- 🔭 No momento buscando novas oportunidades profissionais.
+- 🌱 Atualmente estudando Python, JavaScript, html, css e em breve Banco de dados.
+- ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
+
  <div>
   <a href="https://github.com/Adriano1976">
    <img align='center' height="178em" src="https://github-readme-stats.vercel.app/api?username=Adriano1976&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
