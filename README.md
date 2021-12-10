@@ -1,7 +1,7 @@
 ## Olá Pessoal! Eu sou o Adriano Santos
 
-- 🔭 No momento buscando novas oportunidades profissionais.
-- 🌱 Atualmente estudando Python, JavaScript, HTML, CSS e MySQL.
+- 🔭 Estou fazendo Tecnólogo em Sistemas para Internet UniCesumar e Profissionalizante em Banco de Dados e SQL, Python, Desenvolvimento Web, JavaScript e TypeScript na Udemy.
+- 🌱 Passo a maior parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
  <div>
