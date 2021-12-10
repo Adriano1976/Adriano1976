@@ -1,7 +1,7 @@
 ## Olá Pessoal! Eu sou o Adriano Santos
 
 - 🔭 No momento buscando novas oportunidades profissionais.
-- 🌱 Atualmente estudando Python, JavaScript, html, css e Banco de dados.
+- 🌱 Atualmente estudando Python, JavaScript, HTML, CSS e MySQL.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
  <div>
