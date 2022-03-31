@@ -4,7 +4,7 @@
 - 🌱 Passo a maior parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
-## Vejamos alguns projetos em funcionamentos até o presente momento.
+## Vejamos alguns projetos criados em HTML, CSS e JavaScript
 
 - ⚡ <a href="https://adriano1976.github.io/projeto-codigo-da-vinci-01/" target="_blank">Projeto Código da Vinci</a> - Nessa 1ª versão do projeto foi feito totalmente na mão no intuito de ver como funciona algumas funções em html, css e javascript com algumas imagens. 
 - ⚡ <a href="https://adriano1976.github.io/projeto-codigo-da-vinci-V2/index.html" target="_blank">Projeto Código da Vinci</a> - Nessa 2ª versão do projeto foi usado o "Framework Pingendo" que é um programa de interface simples e de fácil uso e que permite a criação de websites de maneira simples e rápida usando Bootstrap.
