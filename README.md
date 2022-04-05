@@ -13,6 +13,17 @@
 - ⚡ <a href="https://adriano1976.github.io/projeto-mirror-fashion/" target="_blank">Projeto Mirror Fashion</a> - Trata-se de um projeto fictício de uma loja de roupas online usando html e css, seguindo as instruções do passo-a-passo da apostila online da Caleum 
 - ⚡ <a href="https://j4rh3crposyv9h8zpcii0q.on.drv.tw/Inforconsulta/root/" target="_blank">Projeto Inforconsulta</a> - Nesse projeto é na verdade uma Apostila completa, online e grátis de Tecnologia da Informação com perguntas e respostas feita puramente com html, css e javascript.
 - ⚡ <a href="https://adriano1976.github.io/projeto-ana-bella/" target="_blank">Projeto Ana Bella</a> - Nesse projeto foi feito na mão no intuito de ver como funciona algumas funções em html, css e javascript com algumas imagens.
+- ⚡ <a href="https://projeto-funcionarios.herokuapp.com/" target="_blank">Projeto Funcionários</a> - Nesse projeto foi usado o Framework Django no Pycharm. Para criar esse projeto, foi seguido um roteiro de passo a passo para facilitar a produção do projeto da seguinte forma: 
+- Criar my-project no Heroku. 
+- Instalar heroki-cli.
+- Fazer login e associar o projeto local com o remoto.
+- Preparando as dependências para instalar no Heroku.
+- Instalando o Gunicorn para servir a aplicação no Heroku e django-on-heroku.
+- Determinando a versão do python executada no Heroku.
+- Configurando o arquivo Procfile + Dica extra.
+- Fazendo o Deploy.
+- Executando o migrate e criar um superuser.
+- Desacoplando variáveis específicas de ambiente com o python-decouple.
 
 ##
 
