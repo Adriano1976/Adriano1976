@@ -4,15 +4,8 @@
 - 🌱 Passo a maior parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
-## Vejamos alguns projetos criados em HTML, CSS e JavaScript
+## Vejamos alguns projetos criados em Java e Python
 
-- ⚡ <a href="https://adriano1976.github.io/projeto-codigo-da-vinci-01/" target="_blank">Projeto Código da Vinci</a> - Nessa 1ª versão do projeto foi feito totalmente na mão no intuito de ver como funciona algumas funções em html, css e javascript com algumas imagens. 
-- ⚡ <a href="https://adriano1976.github.io/projeto-codigo-da-vinci-V2/index.html" target="_blank">Projeto Código da Vinci</a> - Nessa 2ª versão do projeto foi usado o "Framework Pingendo" que é um programa de interface simples e de fácil uso e que permite a criação de websites de maneira simples e rápida usando Bootstrap.
-- ⚡ <a href="https://adriano1976.github.io/projeto-codigo-da-vinci-V3/" target="_blank">Projeto Código da Vinci</a> - Nessa 3ª versão do projeto foi usado o "Framework Mobirise" que é uma dessas plataformas que ajuda indivíduos, desenvolvedores e agências a criar sites compatíveis com dispositivos móveis em minutos.
-- ⚡ <a href="https://adriano1976.github.io/projeto-musicdot/" target="_blank">Projeto MusicDot</a> - Réplica do site oficial MusicDot que foi recriado seguindo as instruções do passo-a-passo da apostila online da Caleum e pela apostila da Caleum html, css e javascript
-- ⚡ <a href="https://adriano1976.github.io/projeto-mirror-fashion/" target="_blank">Projeto Mirror Fashion</a> - Trata-se de um projeto fictício de uma loja de roupas online usando html e css, seguindo as instruções do passo-a-passo da apostila online da Caleum 
-- ⚡ <a href="https://j4rh3crposyv9h8zpcii0q.on.drv.tw/Inforconsulta/root/" target="_blank">Projeto Inforconsulta</a> - Nesse projeto é na verdade uma Apostila completa, online e grátis de Tecnologia da Informação com perguntas e respostas feita puramente com html, css e javascript.
-- ⚡ <a href="https://adriano1976.github.io/projeto-ana-bella/" target="_blank">Projeto Ana Bella</a> - Nesse projeto foi feito na mão no intuito de ver como funciona algumas funções em html, css e javascript com algumas imagens.
 - ⚡ <a href="https://agenda-contacts.herokuapp.com/" target="_blank">Projeto Agenda</a> - Nesse projeto foi usado o Framework Django no Pycharm. Com isso, foram criadas alguns models, urls e views seguindo as aulas online do Prof. Luiz Otávio Miranda em seu curso de Pytnon na Udemy. Depois foi feito deploy no heroku. Esse rojeto encontra-se no repositório <a href="https://github.com/Adriano1976/projeto_agenda/tree/master" target="_blank">projeto_agenda</a>
 - ⚡ <a href="https://projeto-funcionarios.herokuapp.com/" target="_blank">Projeto Funcionários</a> - Nesse projeto foi usado o Framework Django no Pycharm. Para criar esse projeto, foi seguido um roteiro de passo a passo para facilitar a produção do projeto da seguinte forma: 
 - Criar my-project no Heroku. 
