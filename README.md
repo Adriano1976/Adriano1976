@@ -6,7 +6,8 @@
 
 ## Vejamos alguns projetos criados em Java e Python
 
-- ⚡ <a href="https://agenda-contacts.herokuapp.com/" target="_blank">Projeto Agenda</a> - Nesse projeto foi usado o Framework Django no Pycharm. Com isso, foram criadas alguns models, urls e views seguindo as aulas online do Prof. Luiz Otávio Miranda em seu curso de Pytnon na Udemy. Depois foi feito deploy no heroku. Esse rojeto encontra-se no repositório <a href="https://github.com/Adriano1976/projeto_agenda/tree/master" target="_blank">projeto_agenda</a>
+- ⚡ <a https://github.com/Adriano1976/projeto-agenda-javafx" target="_blank">Projeto Agenda - Java</a> -
+- ⚡ <a href="https://agenda-contacts.herokuapp.com/" target="_blank">Projeto Agenda - Python</a> - Nesse projeto foi usado o Framework Django no Pycharm. Com isso, foram criadas alguns models, urls e views seguindo as aulas online do Prof. Luiz Otávio Miranda em seu curso de Pytnon na Udemy. Depois foi feito deploy no heroku. Esse rojeto encontra-se no repositório <a href="https://github.com/Adriano1976/projeto_agenda/tree/master" target="_blank">projeto_agenda</a>
 - ⚡ <a href="https://projeto-funcionarios.herokuapp.com/" target="_blank">Projeto Funcionários</a> - Nesse projeto foi usado o Framework Django no Pycharm. Para criar esse projeto, foi seguido um roteiro de passo a passo para facilitar a produção do projeto da seguinte forma: 
 - Criar my-project no Heroku. 
 - Instalar heroki-cli.
