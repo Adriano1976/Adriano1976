@@ -1,7 +1,7 @@
 ## Olá Pessoal! Eu sou o Adriano Santos
 
-- 🔭 Estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas na UniCesumar e Fazendo Cursos Profissionalizantes em Banco de Dados, Java, Pytyon na Udemy.
-- 🌱 Passo a maior parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos, pois gosto de desafios e enigmas da lógica.
+- 🔭 Estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas na UniCesumar. Faço também Cursos Profissionalizantes em Banco de Dados, Java, Python na Udemy na Digital Innovation.
+- 🌱 Passo uma parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos pessoais e realizando os desafios a cada momento que eu os encontro, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
 ##
