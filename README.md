@@ -4,14 +4,6 @@
 - 🌱 Passo a maior parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
-## Vejamos alguns projetos criados em Java e Python
-
-- ⚡ <a href="https://github.com/Adriano1976/projeto-agenda-javafx" target="_blank">Projeto Agenda - Java</a> - Projeto elaborado e seguindo as instruções do Professor Crenilson no seu canal do YouTube. Porém, tive que fazer algumas adaptações durante a sua construção devido as atualizações das dependências e plug-ins, como também as diferenças existente na IDE Intellij. Mas mesmo assim, conseguir fazer com que a aplicações funcionasse da mesmo forma aplicando os conhecimentos adquiridos durante os curso da Universidade, Udemy e da DIO. E por fim, fazendo a <a href="https://adriano1976.github.io/agenda-javadoc/com.projetos.agenda/com/projetos/agenda/package-summary.html" target="_blank">Documentação JavaDoc</a> e com o auxílio da IDE Intellij.
-
-- ⚡ <a href="https://github.com/Adriano1976/api-gestao-convidados-springboot" target="_blank">Api Gestão de Festas - Spring Boot</a> - Gestão de Convidados é uma aplicação back End web e mobile construída seguindo as instruções da apostila Produtividade no Desenvolvimento de Aplicações Web com Spring Boot, sendo essa a 2ª Edição e foi organizados por Normandes José Moreira Junior e Alexandre Afonso. A aplicação consiste em uma lista de controle de convidados de festas e eventos, onde os dados são coletados, como nome, sobrenome e quantidades de acompanhantes, e depois são listados no app web. Porém, foram feitos algumas modificações para melhor explorar as possibilidades disponíveis e almentar a experiência com a api. Essas visualizações são possíveis por meio do Swagger e JavaDoc.
-
-- ⚡ <a href="https://agenda-contacts.herokuapp.com/" target="_blank">Projeto Agenda - Python</a> - Nesse projeto foi usado o Framework Django no Pycharm. Com isso, foram criadas alguns models, urls e views seguindo as aulas online do Prof. Luiz Otávio Miranda em seu curso de Pytnon na Udemy. Depois foi feito deploy no heroku. Esse rojeto encontra-se no repositório <a href="https://github.com/Adriano1976/projeto_agenda/tree/master" target="_blank">projeto-agenda</a>
-
 ##
 
  <div>
