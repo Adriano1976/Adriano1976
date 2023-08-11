@@ -37,8 +37,6 @@
  
  ![Snake animation](https://github.com/Adriano1976/Adriano1976/blob/output/github-contribution-grid-snake.svg) 
 
- ![snake gif](https://github.com/Adriano1976/Adriano1976/blob/output/github-contribution-grid-snake.svg)
-
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Adriano1976}/count.svg" /></p> 
