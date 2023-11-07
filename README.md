@@ -4,11 +4,11 @@
 - 🌱 Passo uma parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos pessoais e realizando os desafios a cada momento que eu os encontro, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
-##
+## 
 
- <div>
+ <div>  
   <a href="https://github.com/Adriano1976">
-   <img align='center' height="170em" src="https://github-readme-stats.vercel.app/api?username=Adriano1976&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img align='center' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano1976&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img align='center' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano1976&layout=compact&langs_count=7&theme=dracula"/> 
   </a>  
 </div>  
