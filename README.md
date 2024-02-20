@@ -1,5 +1,7 @@
 ## Olá Pessoal! Eu sou o Adriano Santos
 
+![image](https://github.com/Adriano1976/Adriano1976/assets/17755195/00957e18-61fd-4f10-8ee2-991a0dad71dc)
+
 - 🔭 Estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas na UniCesumar. Faço também Cursos Profissionalizantes em Banco de Dados, Java, Python na Udemy na Digital Innovation.
 - 🌱 Passo uma parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos pessoais e realizando os desafios a cada momento que eu os encontro, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
