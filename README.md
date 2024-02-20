@@ -2,7 +2,10 @@
 
 ![image](https://github.com/Adriano1976/Adriano1976/assets/17755195/00957e18-61fd-4f10-8ee2-991a0dad71dc)
 
-- 🔭 Estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas na UniCesumar. Faço também Cursos Profissionalizantes em Banco de Dados, Java, Python na Udemy na Digital Innovation.
+-	💎 Com uma sólida experiência de 4 anos em atendimento ao cliente, desenvolvi habilidades cruciais de comunicação e resolução de problemas. Com mais de 5 anos de experiência em informática, incluindo Microsoft Office, demonstro proficiência em ferramentas amplamente utilizadas. Minha familiaridade com Power BI, embora com menos de 1 ano de experiência, evidencia interesse e capacidade em análise de dados, crucial para a posição de Cientista de Dados.
+- ✨ Com o conhecimento em Ciência e Análise de Dados e experência atendimento ao cliente em vários setores e empresas, combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando Machine Learning a problemas reais em projetos pessoais e educacionais, desenvolvi pensamento crítico e habilidades de resolução de problemas.
+- 🎯 Minhas credenciais incluem <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong> na ***UniCesumar*** e pesquisa avançada classificada como uma das melhores e mais prestigiadas no meu desenvolvimento pessoal.
+Experiência em: Python, aprendizado de máquina, operações espaciais e otimização matemática
 - 🌱 Passo uma parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos pessoais e realizando os desafios a cada momento que eu os encontro, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
@@ -31,11 +34,11 @@
  ##
   
 <div>   
-  <a href="https://www.instagram.com/adrianosantos.git" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:adrianosantos.git@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/adrianosantos.git" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adrianosantos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-  <a href="https://www.facebook.com/adrianosantos.git/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/aquivocetem" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/adrianosantos.git/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
+ <a href="https://www.kaggle.com/adrianosantosdev" target="_blank"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=black" target="_blank"></a> 
+ <a href="https://medium.com/@adrianosantos-dev" target="_blank"><img src="https://img.shields.io/badge/Medium-2CA5E0?style=for-the-badge&logo=medium&logoColor=black" target="_blank"></a>
   <a href="https://t.me/adrianosantos_git" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="http://api.whatsapp.com/send?phone=79998960414" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>    
 
