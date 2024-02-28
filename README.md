@@ -12,7 +12,7 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 
 ### Veja os tutoriais publicados de Adriano Santos:
 
-- como Realizar Predições multiclasses de Risco de Obesidade em Python: https://bit.ly/3wAMxrt
+- como Realizar Predições Multiclasses de Risco de Obesidade em Python: https://bit.ly/3wAMxrt
 - Como Classificar Câncer de Ovário com Machine Learning em Python: https://bit.ly/48naJe6
 - Como Classificar Roupas com Machine Learning em Python: https://bit.ly/3T5Dk3i
 - Como Executar o Processo de Extração, Limpeza, Transformação e Carga dos Dados: https://bit.ly/3wiehRo
