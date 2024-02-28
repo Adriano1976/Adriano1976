@@ -12,6 +12,7 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 
 ### Veja os tutoriais publicados de Adriano Santos:
 
+- como Realizar Predições multiclasses de Risco de Obesidade em Python: https://bit.ly/3wAMxrt
 - Como Classificar Câncer de Ovário com Machine Learning em Python: https://bit.ly/48naJe6
 - Como Classificar Roupas com Machine Learning em Python: https://bit.ly/3T5Dk3i
 - Como Executar o Processo de Extração, Limpeza, Transformação e Carga dos Dados: https://bit.ly/3wiehRo
@@ -23,7 +24,6 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 - Como Criar uma Aplicação(API REST) de Gestão de Vendas com Java/Spring Boot: https://bit.ly/3OKDvhB
 - Como Criar uma Aplicação(API REST) de Gestão de Convidados com Java/Spring Boot: https://bit.ly/49I3Rcc
 - Como Criar uma Aplicação de Gestão de Funcionários com Java/Spring Boot e Thymeleaf: https://bit.ly/3UMhAKL
-- Como Criar um Artigo e resumo de um Filme com (HTML, CSS, JavaScript)/Framework Mobirise: https://bit.ly/3SOE4Z4 e https://bit.ly/3SJZjev
 
 ## 
 
