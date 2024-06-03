@@ -10,7 +10,7 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 - 🌱 Passo uma parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos pessoais e realizando os desafios a cada momento que eu os encontro, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
-### Veja os tutoriais publicados de Adriano Santos:
+### Vejam Os Tutoriais e Projetos Publicados por Mim:
 
 - como Realizar Predições Multiclasses de Risco de Obesidade em Python: https://bit.ly/3wAMxrt
 - Como Classificar Câncer de Ovário com Machine Learning em Python: https://bit.ly/48naJe6
