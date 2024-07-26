@@ -10,20 +10,15 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 - 🌱 Passo uma parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos pessoais e realizando os desafios a cada momento que eu os encontro, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
-### Vejam Os Tutoriais e Projetos Publicados por Mim:
+### Vejam meu Portfolio e Projetos Publicados por Mim:
 
-- como Realizar Predições Multiclasses de Risco de Obesidade em Python: https://bit.ly/3wAMxrt
+- Como Realizar Predições Multiclasses de Risco de Obesidade em Python: https://bit.ly/3wAMxrt
 - Como Classificar Câncer de Ovário com Machine Learning em Python: https://bit.ly/48naJe6
 - Como Classificar Roupas com Machine Learning em Python: https://bit.ly/3T5Dk3i
 - Como Executar o Processo de Extração, Limpeza, Transformação e Carga dos Dados: https://bit.ly/3wiehRo
 - Data Science: Investigando o naufrágio do Titanic: https://bit.ly/3uETyqv
 - Como Automatizar Tarefas com Python: https://bit.ly/3uIV4bd
 - Como Otimizar Sistema Bancário com Python: https://bit.ly/3T8EzyM
-- Como Criar uma Agenda Pessoal com Java/JavaFX: https://bit.ly/3T2KaGI
-- Como Criar uma Aplicação(API REST) de Gestão de Estacionamento com Java/Spring Boot: https://bit.ly/3T3USN7
-- Como Criar uma Aplicação(API REST) de Gestão de Vendas com Java/Spring Boot: https://bit.ly/3OKDvhB
-- Como Criar uma Aplicação(API REST) de Gestão de Convidados com Java/Spring Boot: https://bit.ly/49I3Rcc
-- Como Criar uma Aplicação de Gestão de Funcionários com Java/Spring Boot e Thymeleaf: https://bit.ly/3UMhAKL
 
 ## 
 
