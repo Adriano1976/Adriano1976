@@ -16,6 +16,9 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 - [Como Classificar Câncer de Ovário com Machine Learning em Python](https://github.com/Adriano1976/classification-ovarian-cancer.git)
 - [Como Classificar Roupas com Machine Learning em Python](https://github.com/Adriano1976/Keras_fashion_mnist_dropout.git)
 - [Como Executar o Processo de Extração, Limpeza, Transformação e Carga dos Dados](https://github.com/Adriano1976/ETL-com-Python.git)
+- [Como analisar os fatores que contribuem no Diagnóstico de Doenças Cardíacas](https://github.com/Adriano1976/Analyzing_the_Heart_Disease.git)
+- [Como identificar o perfil típico dos clientes para cada modelo de esteira](https://github.com/Adriano1976/pivot_table_function.git)
+- [Como prevendo o preço das Ações da Bolsa de Valores com PyCaret](https://github.com/Adriano1976/yfinance_pycaret.git)
 
 ## 
 
