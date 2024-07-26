@@ -12,13 +12,10 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 
 ### Vejam meu Portfolio e Projetos Publicados por Mim:
 
-- Como Realizar Predições Multiclasses de Risco de Obesidade em Python: https://bit.ly/3wAMxrt
-- Como Classificar Câncer de Ovário com Machine Learning em Python: https://bit.ly/48naJe6
-- Como Classificar Roupas com Machine Learning em Python: https://bit.ly/3T5Dk3i
-- Como Executar o Processo de Extração, Limpeza, Transformação e Carga dos Dados: https://bit.ly/3wiehRo
-- Data Science: Investigando o naufrágio do Titanic: https://bit.ly/3uETyqv
-- Como Automatizar Tarefas com Python: https://bit.ly/3uIV4bd
-- Como Otimizar Sistema Bancário com Python: https://bit.ly/3T8EzyM
+- [Como Realizar Predições Multiclasses de Risco de Obesidade em Python](https://github.com/Adriano1976/Obesity_Risk_Prediction_and_Analysis.git)
+- [Como Classificar Câncer de Ovário com Machine Learning em Python](https://github.com/Adriano1976/classification-ovarian-cancer.git)
+- [Como Classificar Roupas com Machine Learning em Python](https://github.com/Adriano1976/Keras_fashion_mnist_dropout.git)
+- [Como Executar o Processo de Extração, Limpeza, Transformação e Carga dos Dados](https://github.com/Adriano1976/ETL-com-Python.git)
 
 ## 
 
