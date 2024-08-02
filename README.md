@@ -18,7 +18,7 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 - [Como Executar o Processo de Extração, Limpeza, Transformação e Carga dos Dados](https://github.com/Adriano1976/ETL-com-Python.git)
 - [Como analisar os fatores que contribuem no Diagnóstico de Doenças Cardíacas](https://github.com/Adriano1976/Analyzing_the_Heart_Disease.git)
 - [Como identificar o perfil típico dos clientes para cada modelo de esteira](https://github.com/Adriano1976/pivot_table_function.git)
-- [Como prevendo o preço das Ações da Bolsa de Valores com `PyCaret`](https://github.com/Adriano1976/yfinance_pycaret_regression.git)
+- [Como prevendo o preço das Ações da Bolsa de Valores com `PyCaret` com tarefas de Regressão](https://github.com/Adriano1976/yfinance_pycaret_regression.git)
 - [Como construir e treinar modelo de rede neural para classificar modelo de roupas](https://github.com/Adriano1976/Keras_fashion_mnist_dropout.git)
 - [Como carregar, limpar e tratar os dados de uma base de dados](https://github.com/Adriano1976/ETL-com-Python.git)
 - [Como analisar e prever o câncer de mama usando `Machine Learning`](https://github.com/Adriano1976/Breast-Cancer-Analysis-and-Predictions.git)
