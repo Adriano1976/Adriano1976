@@ -58,12 +58,13 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
  <a href="https://www.kaggle.com/adrianosantosdev" target="_blank"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=black" target="_blank"></a> 
  <a href="https://medium.com/@adrianosantos-dev" target="_blank"><img src="https://img.shields.io/badge/Medium-2CA5E0?style=for-the-badge&logo=medium&logoColor=black" target="_blank"></a>
   <a href="https://t.me/adrianosantos_git" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  <a href="http://api.whatsapp.com/send?phone=79998960414" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>    
+  <a href="http://api.whatsapp.com/send?phone=79998960414" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 
+<br><br><br><br><br>  
 
 <div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Adriano1976}/count.svg" /></p> 
-<br>  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+  <p><b><h3> Contagem de visitantes </h3></b></p>  
+  <img src="https://vbr.nathanchung.dev/badge?page_id=Adriano1976" style="height: 30px;" />
+   <br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
 </div>
