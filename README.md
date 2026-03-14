@@ -1,6 +1,6 @@
 ## Olá Pessoal! Eu sou o Adriano Santos
 
-![image](https://github.com/Adriano1976/Adriano1976/assets/17755195/00957e18-61fd-4f10-8ee2-991a0dad71dc)
+![image](/assets/banner_data_analytcs.png)
 
 -	💎 Com uma sólida experiência de 4 anos em atendimento ao cliente, desenvolvi habilidades cruciais de comunicação e resolução de problemas. Com mais de 5 anos de experiência em informática, incluindo Microsoft Office, demonstro proficiência em ferramentas amplamente utilizadas. Minha familiaridade com Power BI, embora com menos de 1 ano de experiência, evidencia interesse e capacidade em análise de dados, crucial para a posição de Cientista de Dados.
 - ✨ Com o conhecimento em Ciência e Análise de Dados e experência atendimento ao cliente em vários setores e empresas, combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando Machine Learning a problemas reais em projetos pessoais e educacionais, desenvolvi pensamento crítico e habilidades de resolução de problemas.
