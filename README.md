@@ -27,13 +27,6 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 - [Como criar um relatório de Segmentação de Clientes com `Power BI`](https://project.novypro.com/J5pOLM)
 - [Como criar um relatório de Análise do Mercado de Ações com Power BI](https://project.novypro.com/ST2o45)
 
-## 
-
-[![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano1976&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Adriano1976)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano1976&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook,html,css)](https://github.com/Adriano1976)
-
-
 ##
 
  <div>  
