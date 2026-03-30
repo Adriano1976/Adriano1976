@@ -33,19 +33,6 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano1976&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook,html,css)](https://github.com/Adriano1976)
 
-##
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Adriano1976&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Adriano1976&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Adriano1976&show_icons=true" />
-</picture>
 
 ##
 
