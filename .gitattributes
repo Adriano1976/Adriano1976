@@ -1,0 +1,11 @@
+# .gitattributes
+
+# Ignorar Jupyter Notebooks nas estatísticas de linguagem
+*.ipynb linguist-documentation
+
+# Ou, se preferir excluir completamente:
+# *.ipynb linguist-vendored
+
+# Também é útil ignorar outros arquivos que não são código real:
+*.html linguist-detectable=false
+*.css linguist-detectable=false
