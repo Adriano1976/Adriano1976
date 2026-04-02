@@ -10,6 +10,8 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 - 🌱 Passo uma parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos pessoais e realizando os desafios a cada momento que eu os encontro, pois gosto de desafios e enigmas da lógica.
 - ⚡ Tentando conciliar tempo para a família com o aperfeiçoamento na profissão em programação e suas tecnologias.
 
+## 
+
 ### Vejam meu Portfolio e Projetos Publicados por Mim:
 
 - [Como Realizar Predições Multiclasses de Risco de Obesidade em Python](https://github.com/Adriano1976/Obesity_Risk_Prediction_and_Analysis.git)
@@ -27,9 +29,12 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 - [Como criar um relatório de Segmentação de Clientes com `Power BI`](https://project.novypro.com/J5pOLM)
 - [Como criar um relatório de Análise do Mercado de Ações com Power BI](https://project.novypro.com/ST2o45)
 
-##
+## 
+<br>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Adriano1976&theme=radical&hide_border=true&locale=pt_BR&card_width=895)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adriano1976&theme=radical&hide_border=true&locale=pt_BR&card_width=895)](https://git.io/streak-stats) 
+
+  ##
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -55,7 +60,7 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
   <a href="https://t.me/adrianosantos_git" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="http://api.whatsapp.com/send?phone=5579998960414" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
-<br><br><br><br><br>  
+<br><br><br><br>
 
 <div align="center">
   <p><b><h3> Contagem de visitantes </h3></b></p>  
