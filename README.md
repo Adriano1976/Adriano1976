@@ -29,12 +29,7 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 
 ##
 
- <div>  
-  <a href="https://github.com/Adriano1976">
-   <img align='center' height="200em" src="https://github-readme-stats.vercel.app/api?username=Adriano1976&show_icons=true&theme=radical"/>   
-   <img align='center' height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano1976&layout=compact&langs_count=7&theme=radical"/> 
-  </a>  
-</div>  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Adriano1976&theme=radical&hide_border=true&locale=pt_BR&card_width=895)](https://git.io/streak-stats) 
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
