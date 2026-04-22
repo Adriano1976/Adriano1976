@@ -14,6 +14,8 @@ Experiência em: Python, aprendizado de máquina, operações espaciais e otimiz
 
 ### Vejam meu Portfolio e Projetos Publicados por Mim:
 
+
+- [Como Criar uma agenda pessoal ou para o seu trabalho usando JavaFX](https://github.com/Adriano1976/projeto-agenda-javafx/tree/master)
 - [Como Realizar Predições Multiclasses de Risco de Obesidade em Python](https://github.com/Adriano1976/Obesity_Risk_Prediction_and_Analysis.git)
 - [Como Classificar Câncer de Ovário com Machine Learning em Python](https://github.com/Adriano1976/classification-ovarian-cancer.git)
 - [Como Classificar Roupas com Machine Learning em Python](https://github.com/Adriano1976/Keras_fashion_mnist_dropout.git)
